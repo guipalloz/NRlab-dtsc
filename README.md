@@ -7,7 +7,7 @@
 
 > This tool is intended for training in waveform generation of the fifth generation new radio (5GNR).
 
-[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) [[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 ---
 
@@ -62,11 +62,9 @@ $ pip freeze | grep NRlabdtsc
 ## Usage
 - You can use your own script that calls all the functions implemented in the toolbox but you are welcome to use the example file that is uploaded in this repo. All you need to have is 3.7 Python version installed!
 
-## Donations (Optional)
+## Donations
 
-- You could include a <a href="https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.png" target="_blank">Gratipay</a> link as well.
-
-[![Support via Paypal](https://images.squarespace-cdn.com/content/v1/59095c596a496317a4d3be88/1504479487656-KNQRWN1IEU14LC7PF338/ke17ZwdGBToddI8pDm48kCY1esIE84K43lhRIxGwq5xZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7a3IG1vtna7BEUjBtarIuotNbqtjO-YLGO73uv4dHhsXaMwQEF6pgdG1igJQDADREQ/Harvey+Relief+-+Donate+via+Paypal)](paypal.me/guillepl8)
+[![Support via Paypal](https://images.squarespace-cdn.com/content/v1/59095c596a496317a4d3be88/1504479487656-KNQRWN1IEU14LC7PF338/ke17ZwdGBToddI8pDm48kCY1esIE84K43lhRIxGwq5xZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7a3IG1vtna7BEUjBtarIuotNbqtjO-YLGO73uv4dHhsXaMwQEF6pgdG1igJQDADREQ/Harvey+Relief+-+Donate+via+Paypal)](https://paypal.me/guillepl8)
 
 
 ---
