@@ -64,6 +64,8 @@ $ pip freeze | grep NRlabdtsc
 
 ## Donations
 
+If you like this project you can contribute with a donation! :)
+
 [![Support via Paypal](https://images.squarespace-cdn.com/content/v1/59095c596a496317a4d3be88/1504479487656-KNQRWN1IEU14LC7PF338/ke17ZwdGBToddI8pDm48kCY1esIE84K43lhRIxGwq5xZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7a3IG1vtna7BEUjBtarIuotNbqtjO-YLGO73uv4dHhsXaMwQEF6pgdG1igJQDADREQ/Harvey+Relief+-+Donate+via+Paypal)](https://paypal.me/guillepl8)
 
 
